@@ -4,4 +4,9 @@ The Lunar Eye Deepfake Detection System employs a range of models, including Res
 
 # Results
 ![alt text](https://github.com/The-xipher/Lunar-Eye/blob/main/results/mesonetbase.jpeg?raw=true)
+![alt text](https://github.com/The-xipher/Lunar-Eye/blob/main/results/Resnextbase.jpeg?raw=true)
+![alt text](https://github.com/The-xipher/Lunar-Eye/blob/main/results/ensemb.jpeg?raw=true)
+![alt text](https://github.com/The-xipher/Lunar-Eye/blob/main/results/resenhanced.jpeg?raw=true)
+![alt text](https://github.com/The-xipher/Lunar-Eye/blob/main/results/ensembenhance.jpeg?raw=true)
+
 
